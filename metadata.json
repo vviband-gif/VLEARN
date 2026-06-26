@@ -1,0 +1,6 @@
+{
+  "name": "VLEARN",
+  "description": "An AI-powered education platform that combines interactive learning, gamification, and productivity tools into one seamless ecosystem.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
